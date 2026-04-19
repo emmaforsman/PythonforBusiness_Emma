@@ -1,0 +1,72 @@
+[
+  {
+    "task":"Wireframing",
+    "hours":20,
+    "status":"completed",
+    "project_id":"P001",
+    "title":"Website Redesign"
+  },
+  {
+    "task":"Frontend development",
+    "hours":60,
+    "status":"in_progress",
+    "project_id":"P001",
+    "title":"Website Redesign"
+  },
+  {
+    "task":"User testing",
+    "hours":15,
+    "status":"not_started",
+    "project_id":"P001",
+    "title":"Website Redesign"
+  },
+  {
+    "task":"UI design",
+    "hours":35,
+    "status":"completed",
+    "project_id":"P002",
+    "title":"Mobile App Launch"
+  },
+  {
+    "task":"Backend API",
+    "hours":80,
+    "status":"in_progress",
+    "project_id":"P002",
+    "title":"Mobile App Launch"
+  },
+  {
+    "task":"App store submission",
+    "hours":5,
+    "status":"not_started",
+    "project_id":"P002",
+    "title":"Mobile App Launch"
+  },
+  {
+    "task":"Beta testing",
+    "hours":25,
+    "status":"not_started",
+    "project_id":"P002",
+    "title":"Mobile App Launch"
+  },
+  {
+    "task":"Schema mapping",
+    "hours":15,
+    "status":"completed",
+    "project_id":"P003",
+    "title":"Data Pipeline Migration"
+  },
+  {
+    "task":"ETL scripts",
+    "hours":45,
+    "status":"completed",
+    "project_id":"P003",
+    "title":"Data Pipeline Migration"
+  },
+  {
+    "task":"Validation",
+    "hours":20,
+    "status":"in_progress",
+    "project_id":"P003",
+    "title":"Data Pipeline Migration"
+  }
+]

@@ -1,0 +1,7 @@
+segment_name,customer_count,avg_income,avg_spending_score,avg_purchase_frequency,avg_last_purchase,total_purchase_value
+High Value Customers,150,124051.95,66.58,28.35,725.07,108760.13
+Infrequent Big Spenders,174,71998.33,27.99,21.67,779.07,135558.58
+Loyal Everyday Shoppers,170,56257.02,69.32,33.25,600.73,102123.39
+Older Inactive Shoppers,164,100017.9,30.34,22.33,230.11,37737.83
+Young Active Shoppers,177,100375.52,40.3,36.19,351.43,62203.02
+Young Casual Shoppers,165,82619.4,72.33,17.29,278.58,45965.72
